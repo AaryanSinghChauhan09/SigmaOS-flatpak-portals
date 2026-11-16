@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-flatpak-portals"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS flatpak-portals component - deployment"
+
+[lib]
+name = "flatpak_portals"
+path = "src/lib.rs"
