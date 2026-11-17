@@ -3,7 +3,7 @@ name = "SigmaOS-flatpak-portals"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "flatpak-portals component"
+description = "Flatpak Portals"
 upstream = []
 
 [contract]
